@@ -29,10 +29,10 @@ Agradeço seu apoio!
 
 ## Explore o acervo de livros e mergulhe no conhecimento psicológico.
 
--
--
--
--
+```markdown
+Acessar o Acervo de Psicologia
+```
+- 👉 **ACESSAR:** [ACERVO DE PSICOLOGIA](https://github.com/AIExxplorer/ACERVO_DE_PSICOLOGIA/tree/main/ACERVO_DE_PSICOLOGIA)
 
 ## Contribuintes
 Este projeto é possível graças a todos os contribuidores. [Contribua](https://github.com/AIExxplorer/ACERVO_DE_PSICOLOGIA/blob/main/CONTRIBUINDO.md).
