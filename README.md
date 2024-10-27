@@ -53,6 +53,20 @@ Este projeto é possível graças a todos os contribuidores. [Contribua](https:/
     </a>
 </td>
 
+<td align="center">
+    <a href="https://github.com/DavidDevFull">
+      <img
+        src="https://avatars.githubusercontent.com/u/177657704?v=4"
+        width="100px;"
+        alt="DavidDevFull"
+        />
+      <br />
+      <sub>
+        <b>DavidDevFull</b>
+      </sub>
+    </a>
+</td>
+
 <!-- ------INSIRA SUA CONTRIBUICAO ACIMA DESTA LINHA -->
 </table>
 
